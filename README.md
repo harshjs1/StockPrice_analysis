@@ -1,4 +1,4 @@
- Stock Price Analysis
+📈 Stock Price Analysis
 
 This repository contains a Stock Price Analysis project that explores historical stock data to uncover trends, patterns, and insights. The project involves data collection, preprocessing, visualization, and statistical modeling to analyze stock market performance.
 🔹 Features:
